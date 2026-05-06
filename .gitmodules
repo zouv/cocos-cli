@@ -1,0 +1,4 @@
+[submodule "native/external"]
+	path = packages/engine
+	url = https://github.com/zouv/cocos4.git
+	branch = v4.0.0
